@@ -1,2 +1,3 @@
 # offline-repository-server
-Task
+This is my first git Repositroy
+Author - janardhan k
